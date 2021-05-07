@@ -24,7 +24,7 @@ Randomly shutdown, restart, or logout -- or not (Jokeware))
 How to use:
 
 1. Run the program.
-2. Press "y" and press <Enter>.
+2. Press "y" and press \<Enter\>.
 3. Wait.
 4. Done.
 
